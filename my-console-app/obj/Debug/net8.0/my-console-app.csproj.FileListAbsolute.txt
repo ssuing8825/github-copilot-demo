@@ -1,0 +1,14 @@
+C:\Dev\github-copilot-demo\my-console-app\bin\Debug\net8.0\my-console-app.exe
+C:\Dev\github-copilot-demo\my-console-app\bin\Debug\net8.0\my-console-app.deps.json
+C:\Dev\github-copilot-demo\my-console-app\bin\Debug\net8.0\my-console-app.runtimeconfig.json
+C:\Dev\github-copilot-demo\my-console-app\bin\Debug\net8.0\my-console-app.dll
+C:\Dev\github-copilot-demo\my-console-app\bin\Debug\net8.0\my-console-app.pdb
+C:\Dev\github-copilot-demo\my-console-app\obj\Debug\net8.0\my-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\github-copilot-demo\my-console-app\obj\Debug\net8.0\my-console-app.AssemblyInfoInputs.cache
+C:\Dev\github-copilot-demo\my-console-app\obj\Debug\net8.0\my-console-app.AssemblyInfo.cs
+C:\Dev\github-copilot-demo\my-console-app\obj\Debug\net8.0\my-console-app.csproj.CoreCompileInputs.cache
+C:\Dev\github-copilot-demo\my-console-app\obj\Debug\net8.0\my-console-app.dll
+C:\Dev\github-copilot-demo\my-console-app\obj\Debug\net8.0\refint\my-console-app.dll
+C:\Dev\github-copilot-demo\my-console-app\obj\Debug\net8.0\my-console-app.pdb
+C:\Dev\github-copilot-demo\my-console-app\obj\Debug\net8.0\my-console-app.genruntimeconfig.cache
+C:\Dev\github-copilot-demo\my-console-app\obj\Debug\net8.0\ref\my-console-app.dll
