@@ -1,12 +1,30 @@
 # My Console App
+## Overview
+This is a console application.
 
-This is a simple .NET 8 console application that simulates a Pizza Store.
+## Features
+- Runs in the console.
+- Performs basic operations.
 
-## How to Run
+## Prerequisites
+- .NET SDK.
 
-1. Ensure you have [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) installed.
-2. Open a terminal and navigate to the project directory.
-3. Run the following commands:
-   ```bash
-   dotnet build
-   dotnet run
+## Getting Started
+1. Clone the repository.
+2. Build the project.
+3. Run the application.
+
+## Usage
+Follow the instructions in the console.
+
+## Project Structure
+Contains source code files.
+
+## Contributing
+Contributions are welcome.
+
+## License
+MIT License.
+
+## Acknowledgments
+Built with .NET.

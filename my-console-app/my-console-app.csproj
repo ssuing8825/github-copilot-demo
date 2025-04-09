@@ -7,4 +7,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PizzaStore\PizzaStore.csproj" />
+  </ItemGroup>
+
 </Project>
